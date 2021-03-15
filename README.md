@@ -14,3 +14,14 @@ https://www.kaggle.com/andrewmvd/animal-faces
 
 ## Classification Pipeline
 <img src="images/Picture2.png">
+
+## Classification Results
+Accuracy: 85.5%
+
+False positive rate: 19.8%
+
+False negative rate: 9.2%
+
+High FPR because many animals look similar to dogs
+
+<img src="images/Picture3.png">
