@@ -7,5 +7,10 @@ So, in this project we train the VAE on dog images so when images from a differe
 
 ## Dataset
 This dataset is from Animal Faces on Kaggle. It contains 16,130 images belonging to dogs, cats, and other wildlife. We took 4738 dog images as the training data, and 500 dog images and 500 images of other animals as the validation data.
-
 https://www.kaggle.com/andrewmvd/animal-faces
+
+## Model Training Pipeline
+<img src="images/Picture1.png">
+
+## Classification Pipeline
+<img src="images/Picture2.png">
